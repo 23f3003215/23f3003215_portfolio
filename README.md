@@ -1,8 +1,8 @@
 # Personal Portfolio Website
 ## Student Details
-Name: YOUR_NAME
-Roll Number: YOUR_ROLLNUMBER
-Email: YOUR_IITM_EMAIL
+Name: Harsh Saravagi
+Roll Number: 23f3003215
+Email: 23f3003215@ds.study.iitm.ac.in
 ---
 ## About Project
 This project is created as part of the Git & GitHub Workshop.
